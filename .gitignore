@@ -1,0 +1,8 @@
+venv/
+.env
+__pycache__/
+*.pyc
+processed_files.json
+metaEmbed.py
+collector.sh
+album_collection.txt
